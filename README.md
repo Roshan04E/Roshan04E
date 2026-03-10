@@ -35,6 +35,7 @@ I build things that shouldn't be easy — a full OS-style desktop in the browser
 ---
 
 ### 🛒 [Shopps — Grocery Delivery App](https://github.com/Roshan04E/shopps)
+[🔴 Live Demo](https://shoppsgo.vercel.app/)
 > Full-stack grocery delivery application with real-world e-commerce logic
 
 - End-to-end delivery workflow — browse, cart, checkout
