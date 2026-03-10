@@ -29,6 +29,7 @@ A grocery delivery app. Browse, add to cart, checkout — the full flow. Built i
 ### Stack
 
 TypeScript · Python · JavaScript · HTML · CSS · Flask · React and NextJS
+
 Scikit-learn · Random Forest · VirusTotal API · Git
 
 ---
